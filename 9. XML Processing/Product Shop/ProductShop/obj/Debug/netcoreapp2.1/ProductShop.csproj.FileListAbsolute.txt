@@ -1,3 +1,0 @@
-C:\Users\adria\source\repos\Entity Framework Core\9. XML Processing\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
-C:\Users\adria\source\repos\Entity Framework Core\9. XML Processing\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
-C:\Users\adria\source\repos\Entity Framework Core\9. XML Processing\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
